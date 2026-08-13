@@ -58,9 +58,9 @@ export default function Certifications() {
                   </div>
 
                   <div className="pt-4 mt-4 border-t border-slate-800/80 flex items-center justify-between text-xs font-mono text-slate-400">
-                    <span className="flex items-center gap-1 text-[11px] text-slate-500">
+                    {/* <span className="flex items-center gap-1 text-[11px] text-slate-500">
                       <Award className="w-3.5 h-3.5 text-violet-400" /> Certificate
-                    </span>
+                    </span> */}
 
                     {cert.credentialUrl ? (
                       <a

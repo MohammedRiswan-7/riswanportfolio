@@ -223,51 +223,51 @@ export const education = [
 
 export const certifications = [
   {
-    title: "Microsoft Azure AI Fundamentals",
-    issuer: "Microsoft",
-    icon: "Cloud",
-    credentialUrl: null
+    title: "Business Analytics with Excel",
+    issuer: "Microsoft | Simplilearn",
+    icon: "Analysis",
+    credentialUrl:"business analytics with excel.pdf"
   },
   {
-    title: "IBM Data Science",
-    issuer: "IBM",
-    icon: "Database",
-    credentialUrl: null
+    title: "GenAI Powered Data Analytics",
+    issuer: "TATA | Forage",
+    icon: "Sparkles",
+    credentialUrl:"tata gen ai forage.pdf"
   },
   {
-    title: "Intel AI for Everyone",
+    title: "Ai for All program",
     issuer: "Intel",
     icon: "Cpu",
-    credentialUrl: null
+    credentialUrl:"intel.pdf"
   },
   {
-    title: "Stanford Machine Learning",
-    issuer: "Stanford / Coursera",
+    title: "Google AI",
+    issuer: "Coursera",
     icon: "Brain",
-    credentialUrl: null
+    credentialUrl:"coursera.pdf"
   },
   {
-    title: "Google Cloud PDE",
-    issuer: "Google Cloud",
+    title: "Introduction to Business Intelligence",
+    issuer: "Infosys Springboard",
     icon: "CloudRain",
-    credentialUrl: null
+    credentialUrl:"infosys.pdf"
   },
   {
-    title: "Deloitte Technology Consulting",
-    issuer: "Deloitte",
+    title: "Data Analytics Job Simulation",
+    issuer: "Deloitte | Forage",
     icon: "ShieldCheck",
-    credentialUrl: null
+    credentialUrl:"deloitte DA.pdf"
   },
   {
     title: "Web Development",
-    issuer: "Skill India",
+    issuer: "Skill India | NDSC",
     icon: "Code",
-    credentialUrl: null
+    credentialUrl:"skill india.pdf"
   },
   {
     title: "Generative AI Bootcamp",
     issuer: "Udemy",
     icon: "Sparkles",
-    credentialUrl: null
+    credentialUrl:"udemy bootcamp.pdf"
   }
 ];
