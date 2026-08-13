@@ -166,7 +166,7 @@ export default function About() {
 
                 {/* Image */}
                 <img
-                  src="/profile.png"
+                  src={`${import.meta.env.BASE_URL}profile.png`}
                   alt="Mohammed Riswan"
                   className="
                     absolute
